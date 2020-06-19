@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/disconnect.js"],"names":["testClient","destroy"],"mappings":";;AAAA;;;;AAEAA,eAAWC,OAAX","sourcesContent":["import testClient from './index';\n\ntestClient.destroy();"],"file":"disconnect.js"}
